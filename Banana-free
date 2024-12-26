@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/scriptgiver0/Banana/e5ec5f038c878b19edc63e14fb34b97cb817254e/Banana',true))()
